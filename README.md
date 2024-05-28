@@ -14,6 +14,7 @@ This project allows users to upload a CSV file containing trade data and calcula
 ```bash
 git clone <repository-url>
 cd <repository-directory>
+```
 2. Install dependencies
 bash
 Copy code
